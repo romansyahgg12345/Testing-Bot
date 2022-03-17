@@ -91,10 +91,10 @@ fake = setting.Fake
 limitCount = setting.limitCount
 
 //Setting Donasi & Pay
-"gopay" = "-"
-"dana" = "-"
-"ovo" = "-"
-"pulsa" = "62895416210179"
+gopay = -
+dana = -
+ovo = -
+pulsa = 62895416210179
 
 //Tictactoe
 ky_ttt = []
