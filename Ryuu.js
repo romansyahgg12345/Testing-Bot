@@ -82,8 +82,8 @@ const _healt = JSON.parse(fs.readFileSync('./lib/rpg/healt.json'))
 const fakeimage = fs.readFileSync ('./media/Ryuu.jpg')
 
 //Setting Owner
-"ownernumber" = "62895416210179",
-"ownernumber2" = "62895416210179",
+ownernumber = 62895416210179
+ownernumber2" = 62895416210179
 "botname" = "XyudaMd",
 "ownername" = "YudaBotz"
 "ownername2" = "XyudaBotz"
