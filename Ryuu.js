@@ -83,10 +83,10 @@ const fakeimage = fs.readFileSync ('./media/Ryuu.jpg')
 
 //Setting Owner
 ownernumber = 62895416210179
-ownernumber2" = 62895416210179
-"botname" = "XyudaMd",
-"ownername" = "YudaBotz"
-"ownername2" = "XyudaBotz"
+ownernumber2 = 62895416210179
+botname = XyudaMd
+ownername = YudaBotz
+ownername2 = XyudaBotz
 fake = setting.Fake
 limitCount = setting.limitCount
 
